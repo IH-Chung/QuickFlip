@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "快捷翻頁",
+    "description": "擴充功能的名稱"
+  },
+  "extDescription": {
+    "message": "在右下角添加下一頁圖標，左下角添加上一頁圖標，並支持鍵盤方向鍵控制",
+    "description": "擴充功能的描述"
+  },
+  "previousButton": {
+    "message": "上一頁",
+    "description": "上一頁按鈕的文字"
+  },
+  "nextButton": {
+    "message": "下一頁",
+    "description": "下一頁按鈕的文字"
+  }
+}

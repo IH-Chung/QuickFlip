@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "QuickFlip",
+    "description": "The name of the extension"
+  },
+  "extDescription": {
+    "message": "Adds a next page icon to the bottom right corner, a previous page icon to the bottom left corner, and supports keyboard arrow key control",
+    "description": "The description of the extension"
+  },
+  "previousButton": {
+    "message": "Previous",
+    "description": "Text for the previous page button"
+  },
+  "nextButton": {
+    "message": "Next",
+    "description": "Text for the next page button"
+  }
+}

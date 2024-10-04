@@ -1,0 +1,18 @@
+.nav-button {
+  position: fixed;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  cursor: pointer;
+  z-index: 9999;
+}
+
+.prev {
+  left: 20px;
+  bottom: 20px;
+}
+
+.next {
+  right: 20px;
+  bottom: 20px;
+}
